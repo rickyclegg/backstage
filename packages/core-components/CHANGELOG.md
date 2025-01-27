@@ -1,5 +1,18 @@
 # @backstage/core-components
 
+## 0.16.4-next.0
+
+### Patch Changes
+
+- 9c9f4ff: Added `nestedValuesAsYaml` option to `StructuredMetadataTable` to render data as yaml.
+- 17088d2: Updating the `TaskLogStream` to take up all space in a running task, and also show the last line of the log by default
+- Updated dependencies
+  - @backstage/config@1.3.2
+  - @backstage/core-plugin-api@1.10.3
+  - @backstage/errors@1.2.7
+  - @backstage/theme@0.6.3
+  - @backstage/version-bridge@1.0.10
+
 ## 0.16.3
 
 ### Patch Changes

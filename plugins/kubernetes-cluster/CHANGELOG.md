@@ -1,5 +1,18 @@
 # @backstage/plugin-kubernetes-cluster
 
+## 0.0.22-next.1
+
+### Patch Changes
+
+- d80b08f: Improved rendering of Kubernetes resources' metadata.
+- Updated dependencies
+  - @backstage/plugin-kubernetes-react@0.5.4-next.1
+  - @backstage/core-components@0.16.4-next.0
+  - @backstage/plugin-catalog-react@1.15.2-next.1
+  - @backstage/catalog-model@1.7.3
+  - @backstage/core-plugin-api@1.10.3
+  - @backstage/plugin-kubernetes-common@0.9.3-next.0
+
 ## 0.0.22-next.0
 
 ### Patch Changes
